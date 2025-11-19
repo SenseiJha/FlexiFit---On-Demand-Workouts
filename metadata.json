@@ -1,0 +1,7 @@
+{
+  "name": "Flexifit",
+  "description": "A motivational fitness marketplace connecting users with hourly gym sessions, yoga studios, and specialized classes. Features AI coaching, gamification, and a provider dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
